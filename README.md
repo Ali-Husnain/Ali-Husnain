@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-husnain" alt="ali-husnain" /></a> </p>
 
-- 🔭 I’m currently working on [Miindset](https://miindset.com/)
+- 🔭 I’m currently working on AWS Services
 
 - 🌱 I’m currently learning **React Native, Docker**
 
